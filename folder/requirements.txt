@@ -1,0 +1,2 @@
+https://github.com/RealmTeam/django-rest-framework-social-oauth2
+https://github.com/ottoyiu/django-cors-headers
